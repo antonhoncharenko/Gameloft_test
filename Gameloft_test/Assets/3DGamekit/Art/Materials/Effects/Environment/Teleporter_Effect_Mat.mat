@@ -139,7 +139,7 @@ Material:
     - _DepthBlur: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Edge: 7.11
+    - _Edge: 20
     - _EdgeBlend: 0.25
     - _EffectAmount: 0.2
     - _ExtraEmission: 0
