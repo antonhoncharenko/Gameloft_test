@@ -42,7 +42,7 @@ namespace Gamekit3D
             {
                 var ic = other.GetComponent<InventoryController>();
                 ic.AddItem(inventoryKey);
-                if (disableOnEnter)
+                                if (disableOnEnter)
                 {
                     gameObject.SetActive(false);
                     Save();
