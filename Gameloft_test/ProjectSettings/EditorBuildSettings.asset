@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/3DGamekit/Scenes/_TemplateScene.unity
     guid: a93c8f727f3196941b92761d8a44628c
   - enabled: 1
-    path: Assets/3DGamekit/Scenes/UI/Loading.unity
+    path: Assets/Scenes/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
   - enabled: 1
     path: Assets/Scenes/Playground.unity
