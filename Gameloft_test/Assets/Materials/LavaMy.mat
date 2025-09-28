@@ -58,11 +58,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HeatTex:
-        m_Texture: {fileID: 2800000, guid: 5c60ebd6d3f803649a63ea854fbe1e13, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81d7212175a03f843b9320edd29b88c9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5c60ebd6d3f803649a63ea854fbe1e13, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81d7212175a03f843b9320edd29b88c9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
@@ -74,7 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
-        m_Texture: {fileID: 2800000, guid: 1eaf94ae67ae8c94ba6e4cf601809b2c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 831acd8f7eacdb044bf0af6b756d792c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -87,7 +87,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AnimSpeed: 0.05
+    - _AnimSpeed: 0.1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
@@ -102,7 +102,7 @@ Material:
     - _Metalic: 0.2
     - _Metallic: 0
     - _Mode: 0
-    - _NormalStr: 5
+    - _NormalStr: 7
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
@@ -117,5 +117,5 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 3.9999998, g: 1.3044217, b: 0, a: 1}
     - _OffsetAnimControl: {r: -0.1, g: 0, b: 0, a: 0}
-    - _Tiling: {r: 2, g: 2, b: 0, a: 0}
+    - _Tiling: {r: 3, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []
