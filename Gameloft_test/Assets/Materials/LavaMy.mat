@@ -87,7 +87,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AnimSpeed: 0.03
+    - _AnimSpeed: 0.05
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
@@ -116,6 +116,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 3.9999998, g: 1.3044217, b: 0, a: 1}
-    - _OffsetAnimControl: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _OffsetAnimControl: {r: -0.1, g: 0, b: 0, a: 0}
     - _Tiling: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
