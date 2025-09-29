@@ -74,5 +74,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/Gameloft_test/Assets/3DGamekit/Scenes.meta
-/Gameloft_test/Assets/3DGamekit/Scenes/*
+# /Gameloft_test/Assets/3DGamekit/Scenes.meta
+# /Gameloft_test/Assets/3DGamekit/Scenes/*
